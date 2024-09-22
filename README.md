@@ -1,6 +1,7 @@
 Assessment Contract
 
 
+
 This contract is a simple banking system that allows the owner to deposit and withdraw funds. It also provides functions to retrieve the current balance, gas price of the transaction, and the current block number.
 
 
